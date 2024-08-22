@@ -1,0 +1,26 @@
+.salam {
+    border: 3px solid red;
+    /* دادن حاشیه به یک تگ */
+    padding: 20px 10px 40px 80px;
+    /* دادان فاصله از داخل به یک تگ */
+    margin: 20px 10px 40px 80px;
+    /* دادن فاصله از بیرون به یک تگ */
+    font-family: "Times New Roman", Times, serif;
+}
+
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    /* تغییر فونت */
+    direction: rtl;
+    /* راست چین کردن */
+}
+
+.dad {
+    display: none;
+    /* چیزی نشان نده */
+    display: block;
+    /* زیر هم قرار بگیرند */
+    display: flex;
+    /* کنار هم قرار بگیرند */
+    justify-content: center;
+}
