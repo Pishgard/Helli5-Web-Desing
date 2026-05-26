@@ -1,2 +1,0 @@
-# uaamfkp0qpavfokmkc6b2c3vx3f5ndq14x33np
-# d1gkbe94lsh97l5tk

@@ -1,2 +1,0 @@
-# q1cw53qrviismmvknam2eff770mqxqys
-# tbugzsvamfipy2m89qpp7

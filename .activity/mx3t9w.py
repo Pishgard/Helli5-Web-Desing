@@ -1,3 +1,0 @@
-# s86j1yzpg2c
-# gow0dno2f51pbqpq9uv7yc2ppkml77eb3ih
-# sg077skb3bxanplwo697augulok5av7ziwoym2qm

@@ -1,3 +1,0 @@
-# ojregt4u29fb6w5zonafq14shatajep0a
-# 2vyxt24gvvaftec2ec6ghls0uz
-# jqdv51bijbfmt91o9t1zf5o8a

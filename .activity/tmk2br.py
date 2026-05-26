@@ -1,3 +1,0 @@
-# xuor4zt68ob2tjo27fmigswtch
-# qw2a61sfe01m3zd2ccknb5jymezz2br8hc5n9r3v
-# rykn7l49w4c7q86gcn6nyb3lwih
